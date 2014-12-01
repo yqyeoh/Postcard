@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Ying Qi Yeoh. All rights reserved.
 //
 
-//testing for git
+//testing for git 2
 
 import UIKit
 
